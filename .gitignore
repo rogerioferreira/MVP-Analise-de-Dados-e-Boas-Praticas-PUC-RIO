@@ -1,3 +1,7 @@
+.vscode/
+dados/*
+!dados/originais
+modelos/
 # pixi environments
 .pixi/*
 !.pixi/config.toml
