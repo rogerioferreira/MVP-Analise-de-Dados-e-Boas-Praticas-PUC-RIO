@@ -8,10 +8,11 @@ version = "0.1.0"
 [tasks]
 
 [dependencies]
-autogluon = "1.5.*"
-python = ">=3.12.13,<3.13"
-pandas = ">=2.3.3,<3"
-jupyterlab = ">=4.5.6,<5"
+python = "3.12.*"
+plotly = ">=6.6.0,<7"
+pandas = "2.3.*"
 ipykernel = ">=7.2.0,<8"
 pip = ">=26.0.1,<27"
-scikit-learn = ">=1.7.2,<2"
+jupyterlab = ">=4.5.6,<5"
+scikit-learn = "1.7.*"
+autogluon = ">=1.5.0,<2"
